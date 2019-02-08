@@ -1,0 +1,2 @@
+- Add a README
+- Check the time and open work apps during work hours auotmatically
