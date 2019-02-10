@@ -1,4 +1,1 @@
-- Add a README
-- Check the time and open work apps during work hours auotmatically
-- Move program list to external config file, read file and loop programs to start when script is run
-- Make script ignored by git and add a example/dist file
+- Check the time and open work apps during work hours automatically
