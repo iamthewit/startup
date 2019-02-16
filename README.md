@@ -3,7 +3,7 @@
 Simple script to run some applications when your computer boots based on whether it's a weekday or the weekend.
 
 ## Installation
-Copy the 'workday.cfg.example' and 'weekend.cfg.example' files and remove the '.example extension'.
+Copy the 'workday.cfg.example' and 'weekend.cfg.example' files and remove the '.example' extension.
 
 On each line enter the name of the application you want to launch.
 
