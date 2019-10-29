@@ -1,5 +1,7 @@
-gnome-terminal
+gnome-terminal --maximize --working-directory=~
 phpstorm
+gitg --no-wd
 google-chrome
 slack
 spotify
+boostnote
